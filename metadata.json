@@ -1,0 +1,6 @@
+{
+  "name": "Ten Frame Math Game",
+  "description": "An interactive educational math game using ten frames and primary colours to practice counting, number bonds to 10, and visual arithmetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
